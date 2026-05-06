@@ -21,7 +21,7 @@ A simple grocery store website developed using HTML and CSS as a university proj
 
 ## Screenshot
 
-<img width="1280" height="720" alt="screencapture-file-C-Users-Compumarts-Desktop-Uni-projects-3rd-year-first-semester-multi-project-Implementation-index-html-2026-05-06-17_21_23" src="https://github.com/user-attachments/assets/6878e29b-71b6-4e71-b345-6236f81749a9" />
+<img width="1920" height="1285" alt="screencapture-file-C-Users-Compumarts-Desktop-Uni-projects-3rd-year-first-semester-multi-project-Implementation-index-html-2026-05-06-17_21_23" src="https://github.com/user-attachments/assets/d3171770-b893-4428-9c19-5abadb0bfa15" />
 
 
 ## Additional Notes
