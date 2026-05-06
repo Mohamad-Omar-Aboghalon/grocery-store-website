@@ -14,31 +14,15 @@ A simple grocery store website developed using HTML and CSS as a university proj
 - HTML5
 - CSS3
 
-## Project Structure
-```text
-project-folder/
-│
-├── index.html
-├── style.css
-│
-├── images/
-│   ├── logo.png
-│   ├── p-1.jpg
-│   ├── p-2.jpg
-│   ├── p-3.jpg
-│   └── p-4.jpg
-│
-└── documentation.pdf
-````
-
 ## How to Run
 
 1. Download the project files.
 2. Open `index.html` in your web browser.
 
-## Screenshots
+## Screenshot
 
-You can add project screenshots inside the `images` or `screenshots` folder.
+<img width="1919" height="1079" alt="Screenshot 2025-11-30 193959" src="https://github.com/user-attachments/assets/63c345ed-ce6c-4c53-88b3-ae7b8678f6ca" />
+
 
 ## Additional Notes
 
