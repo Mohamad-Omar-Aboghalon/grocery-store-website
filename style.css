@@ -1,0 +1,110 @@
+/* إعدادات عامة */
+* {
+    margin: 0;
+}
+
+body {
+    font-family: system-ui;
+    background-color:rgb(242, 242, 242);
+    color: black;
+}
+
+/* الشريط العلوي */
+.top-bar {
+    background-color: rgb(41, 127, 41); /* أخضر بسيط */
+    color: white;
+    padding: 5px 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: 0.95rem;
+}
+
+/* الترحيب */
+.hello {
+    background-color:rgb(226, 255, 226);
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.hello h1 {
+    margin-bottom: 15px;
+}
+
+/* المحتوى الرئيسي */
+.container {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 0 15px;
+}
+
+.container h2 {
+    margin:15px 1px;
+    font-size: 1.4rem;
+}
+
+/* المنتجات */
+.products-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.product-card {
+    background-color:white;
+    padding: 15px;
+}
+
+.product-card h3 {
+    font-size: 1.1rem;
+    margin:5px 1px;
+}
+
+.product-card a
+{
+    text-align: center;
+    background: rgb(41, 127, 41);
+    color: white;
+    padding: 5px 5px;
+    width: 150px;
+    display: inline-block;
+    margin:15px 5px;
+     text-decoration: none;
+}
+
+.price {
+    font-weight: bold;
+    color: rgb(24, 114, 24);
+    margin: 5px 1px;
+}
+
+.desc {
+    font-size: 0.9rem;
+}
+
+.im-size
+    {
+		height:250px;
+    }	
+
+/* العروض */
+.offer-box {
+    background-color: rgb(255, 255, 190);
+    padding: 15px;
+    margin-top: 10px;
+}
+
+/* الفوتر */
+.footer {
+    text-align: center;
+    color:white;
+    background-color:rgb(41, 127, 41);
+    padding: 10px;
+    margin: 0px 0px;
+}
