@@ -21,7 +21,7 @@ A simple grocery store website developed using HTML and CSS as a university proj
 
 ## Screenshot
 
-<img width="1919" height="1079" alt="Screenshot 2025-11-30 193959" src="https://github.com/user-attachments/assets/63c345ed-ce6c-4c53-88b3-ae7b8678f6ca" />
+<img width="1280" height="720" alt="Screenshot 2025-11-30 193959" src="https://github.com/user-attachments/assets/63c345ed-ce6c-4c53-88b3-ae7b8678f6ca" />
 
 
 ## Additional Notes
